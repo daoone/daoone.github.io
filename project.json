@@ -1,0 +1,19 @@
+{
+  "community": [
+    {
+      "name": "abc",
+      "descr": "lalala lalala lalala lalala  lalala lalala",
+      "img": "./img/community05.png"
+    },
+    {
+      "name": "efg",
+      "descr": "lalala lalala lalala lalala  lalala lalala",
+      "img": "./img/community05.png"
+    },
+    {
+      "name": "lmn",
+      "descr": "lalala lalala lalala lalala  lalala lalala",
+      "img": "./img/community05.png"
+    }
+  ]
+}

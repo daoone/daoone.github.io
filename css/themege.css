@@ -1,0 +1,7 @@
+/*400 700*/
+@font-face {
+    font-family: 'Cabin Themege-Regular';
+    src: url('./css/Cabin-Regular.woff2') format('woff2')
+    font-weight: 400;
+    font-style: normal;
+}
